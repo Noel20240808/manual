@@ -8,8 +8,7 @@ Identité(Ordre n)::
 [EXAMPLE]
 ====
 
-`++Identité(3)++` retourne la matrice stem:[\left( \begin\{array}\{} 1 & 0 & 0 \\ 0 & 1 & 0 \\0 & 0 & 1 \\
-\end\{array} \right) ].
+`++Identité(3)++` retourne la matrice stem:[\begin{pmatrix}1 & 0 & 0 \\0 & 1 & 0 \\ 0 & 0 & 1\end{pmatrix}].
 
 ====
 
