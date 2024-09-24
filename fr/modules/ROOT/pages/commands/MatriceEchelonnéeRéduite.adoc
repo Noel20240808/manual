@@ -9,8 +9,8 @@ MatriceEchelonnéeRéduite( <Matrice> )::
 [EXAMPLE]
 ====
 
-`++MatriceEchelonnéeRéduite({{1,6,4},{2,8,9},{4,5,6}})++` retourne la matrice stem:[ \left(
-\begin\{array}\{} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \\ \end\{array} \right) ].
+`++MatriceEchelonnéeRéduite({{1,6,4},{2,8,9},{4,5,6}})++` retourne la matrice stem:[
+\begin{pmatrix} 1 & 0 & 0 & 5\\ 0 & 1 & 0 & -2.8\\ 0 & 0 & 1 & 2\end{pmatrix}].
 
 ====
 
